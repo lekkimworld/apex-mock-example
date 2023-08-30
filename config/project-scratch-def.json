@@ -1,0 +1,15 @@
+{
+  "orgName": "Apex Unit Test w/ Mocking",
+  "edition": "Developer",
+  "features": ["EnableSetPasswordInApi"],
+  "release": "Preview",
+  "country": "US",
+  "settings": {
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true
+    },
+    "mobileSettings": {
+      "enableS1EncryptedStoragePref2": false
+    }
+  }
+}
